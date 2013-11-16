@@ -26,6 +26,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  multi_json
   pry
   riak-client
   ruby-progressbar
