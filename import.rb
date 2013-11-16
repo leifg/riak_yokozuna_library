@@ -43,7 +43,7 @@ mapit = proc do |document, mapping|
 end
 
 http = Net::HTTP.new('localhost', 17018)
-request = Net::HTTP::Put.new("/yz/index/#{index_name}")
+request = Net::HTTP::Put.new("/yz/index/#{index_name}", { 'Content-Type' => 'application/json'})
 puts "the request: #{request.inspect}"
 response = http.request(request)
 
