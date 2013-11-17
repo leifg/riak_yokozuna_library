@@ -48,10 +48,7 @@ end
 
 http = Net::HTTP.new('localhost', 17018)
 request = Net::HTTP::Put.new("/yz/index/#{index_name}", { 'Content-Type' => 'application/json'})
-puts "the request: #{request.inspect}"
 response = http.request(request)
-
-puts "the response: #{response.inspect}"
 
 client = Riak::Client.new(host: 'localhost', http_port: 17018)
 
