@@ -13,9 +13,8 @@ end
 
 mappings = {
   'amazon' => {
-    'book_amazon_id' => 'id',
     'title' => 'title',
-    'author_code' => 'author',
+    'author_shortname' => 'author',
     'book_isbn' => 'isbn',
     'amazon_score' => 'rating',
     'cover_image_address' => 'cover',
@@ -23,21 +22,26 @@ mappings = {
     'created_at' => 'release_date',
   },
   'bol' => {
-    'book_bol_id' => 'id',
     'book_title' => 'title',
     'author_code' => 'author',
-    'book_isbn' => 'isbn',
-    'amazon_score' => 'rating',
-    'cover_image_address' => 'cover',
-    'amazon_tags' => 'tags',
-    'created_at' => 'release_date',
+    'ISBN_number' => 'isbn',
+    'bol_rating' => 'rating',
+    'cover_image' => 'cover',
+    'book_tags' => 'tags',
+    'entry_stamp' => 'release_date',
   },
 }
 
-mapit = proc do |document, mapping|
+mapit = lambda do |document, mapping|
   result = {}
   mapping.each do |old_key, new_key|
-    result.merge!({new_key => document[old_key] }) if document[old_key]
+    if document[old_key]
+      value_to_write = document[old_key]
+      if value_to_write.is_a?(Array)
+        value_to_write = value_to_write.join(',')
+      end
+      result.merge!({new_key => value_to_write })
+    end
   end
   result
 end
@@ -65,7 +69,7 @@ data.each do |shop, books|
     object.data = book
     object.content_type = 'application/json'
     headers = mapit.call(book, mappings[shop])
-    headers.merge!({'x-riak-meta-yz-tags' => headers.keys.join(', ')})
+    headers.merge!({'x-riak-meta-yz-tags' => headers.keys.join(',')})
     object.meta = headers
     object.store
     pb.increment
