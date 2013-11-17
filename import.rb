@@ -2,7 +2,9 @@ require 'riak'
 require 'ruby-progressbar'
 require 'net/http'
 
+riak_host = 'localhost'
 json_dir = './json'
+schema_dir = './schemas'
 index_name = 'books'
 
 data = Dir["#{json_dir}/*.json"].inject({}) do |hash, json_file|
@@ -46,11 +48,11 @@ mapit = lambda do |document, mapping|
   result
 end
 
-http = Net::HTTP.new('localhost', 17018)
+http = Net::HTTP.new(riak_host, 17018)
 request = Net::HTTP::Put.new("/yz/index/#{index_name}", { 'Content-Type' => 'application/json'})
 response = http.request(request)
 
-client = Riak::Client.new(host: 'localhost', http_port: 17018)
+client = Riak::Client.new(host: riak_host, http_port: 17018)
 
 data.each do |shop, books|
   bucket = client.bucket(shop)
