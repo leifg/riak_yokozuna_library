@@ -56,8 +56,7 @@ data.each do |shop, books|
   request = Net::HTTP::Put.new("/yz/index/#{index_name}", { 'Content-Type' => 'application/json'})
   response = http.request(request)
 
-
-  bucket = client.bucket(shop)
+  bucket = client.bucket(index_name)
   bucket.props = {yz_index: index_name}
 
   pb = ProgressBar.create(
