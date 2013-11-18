@@ -5,7 +5,7 @@ require 'net/http'
 riak_host = 'localhost'
 json_dir = './json'
 schema_dir = './schemas'
-index_name = 'books'
+index_prefix = 'books'
 
 data = Dir["#{json_dir}/*.json"].inject({}) do |hash, json_file|
   hash.merge!({
@@ -48,15 +48,17 @@ mapit = lambda do |document, mapping|
   result
 end
 
-http = Net::HTTP.new(riak_host, 17018)
-request = Net::HTTP::Put.new("/yz/index/#{index_name}", { 'Content-Type' => 'application/json'})
-response = http.request(request)
-
 client = Riak::Client.new(host: riak_host, http_port: 17018)
 
 data.each do |shop, books|
+  http = Net::HTTP.new(riak_host, 17018)
+  index_name = "#{index_prefix}_#{shop}"
+  request = Net::HTTP::Put.new("/yz/index/#{index_name}", { 'Content-Type' => 'application/json'})
+  response = http.request(request)
+
+
   bucket = client.bucket(shop)
-  bucket.props = {yz_index: index_name, last_write_wins: true}
+  bucket.props = {yz_index: index_name}
 
   pb = ProgressBar.create(
     title: shop,
@@ -68,7 +70,7 @@ data.each do |shop, books|
     object.data = book
     object.content_type = 'application/json'
     headers = mapit.call(book, mappings[shop])
-    headers.merge!({'x-riak-meta-yz-tags' => headers.keys.join(',')})
+    headers.merge!({'x-riak-meta-yz-tags' => headers.keys.map{|key| key.capitalize}.join(',')})
     object.meta = headers
     object.store
     pb.increment
