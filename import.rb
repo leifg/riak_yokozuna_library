@@ -14,22 +14,22 @@ end
 
 mappings = {
   'amazon' => {
-    'title' => 'title_bin',
-    'author_shortname' => 'author_bin',
-    'book_isbn' => 'isbn_bin',
-    'amazon_score' => 'rating_bin',
-    'cover_image_address' => 'cover_bin',
-    'amazon_tags' => 'tags_bin',
-    'created_at' => 'release_date_bin',
+    'title_of_book' => 'title',
+    'author_shortname' => 'author',
+    'book_isbn' => 'isbn',
+    'amazon_score' => 'rating',
+    'cover_image_address' => 'cover',
+    'amazon_tags' => 'tags',
+    'created_at' => 'release_date',
   },
   'bol' => {
-    'book_title' => 'title_bin',
-    'author_code' => 'author_bin',
-    'ISBN_number' => 'isbn_bin',
-    'bucket = client.bucket(shop)' => 'rating_bin',
-    'cover_image' => 'cover_bin',
-    'book_tags' => 'tags_bin',
-    'entry_stamp' => 'release_date_bin',
+    'book_title' => 'title',
+    'author_code' => 'author',
+    'ISBN_number' => 'isbn',
+    'bucket = client.bucket(shop)' => 'rating',
+    'cover_image' => 'cover',
+    'book_tags' => 'tags',
+    'entry_stamp' => 'release_date',
   },
 }
 
@@ -50,13 +50,8 @@ end
 client = Riak::Client.new(host: riak_host, http_port: 17018)
 
 data.each do |shop, books|
-  http = Net::HTTP.new(riak_host, 17018)
-  index_name = "#{index_prefix}_#{shop}"
-  request = Net::HTTP::Put.new("/yz/index/#{index_name}", { 'Content-Type' => 'application/json'})
-  http.request(request)
-
-  bucket = client.bucket(index_name)
-  bucket.props = {yz_index: index_name}
+  bucket_name = "#{index_prefix}_#{shop}"
+  bucket = client.bucket(bucket_name)
 
   pb = ProgressBar.create(
     title: shop,
@@ -68,7 +63,7 @@ data.each do |shop, books|
     object.data = book
     object.content_type = 'application/json'
     headers = mapit.call(book, mappings[shop])
-    object.indexes = headers
+    object.indexes = headers.map{|name| "#{name}_bin" }
     headers.merge!({'x-riak-meta-yz-tags' => headers.keys.map{|key| key.capitalize}.join(',')})
     object.meta = headers
     object.store

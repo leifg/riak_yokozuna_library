@@ -1,7 +1,7 @@
 {
   "30966619": {
     "book_amazon_id": "30966619",
-    "title": "Zeus: A Journey Through Greece in the Footsteps of a God",
+    "title_of_book": "Zeus: A Journey Through Greece in the Footsteps of a God",
     "author_lf": "Stone, Tom",
     "author_fl": "Tom Stone",
     "author_shortname": "stonetom",
@@ -25,7 +25,7 @@
   },
   "41601804": {
     "book_amazon_id": "41601804",
-    "title": "Zarafa: a giraffe's true story, from deep in Africa to the heart of Paris",
+    "title_of_book": "Zarafa: a giraffe's true story, from deep in Africa to the heart of Paris",
     "author_lf": "Allin, Michael",
     "author_fl": "Michael Allin",
     "author_shortname": "allinmichael",
@@ -45,7 +45,7 @@
   },
   "3589685": {
     "book_amazon_id": "3589685",
-    "title": "Your Safari Dragons: In Search of the Real Komodo Dragon",
+    "title_of_book": "Your Safari Dragons: In Search of the Real Komodo Dragon",
     "author_lf": "White, Daniel",
     "author_fl": "Daniel White",
     "author_shortname": "whitedaniel",
@@ -68,7 +68,7 @@
   },
   "465": {
     "book_amazon_id": "465",
-    "title": "You just don't understand : women and men in conversation",
+    "title_of_book": "You just don't understand : women and men in conversation",
     "author_lf": "Tannen, Deborah",
     "author_fl": "Deborah Tannen",
     "author_shortname": "tannendeborah",
@@ -93,7 +93,7 @@
   },
   "47747605": {
     "book_amazon_id": "47747605",
-    "title": "You Can Work Any Hundred Hours a Week You Want (In Your Underwear)!!: The History of Microcosm Publishing as Told to the Best of My Recollection",
+    "title_of_book": "You Can Work Any Hundred Hours a Week You Want (In Your Underwear)!!: The History of Microcosm Publishing as Told to the Best of My Recollection",
     "author_lf": "Biel, Joe",
     "author_fl": "Joe Biel",
     "author_shortname": "bieljoe",
@@ -120,7 +120,7 @@
   },
   "56067578": {
     "book_amazon_id": "56067578",
-    "title": "You Are Not a Gadget: A Manifesto",
+    "title_of_book": "You Are Not a Gadget: A Manifesto",
     "author_lf": "Lanier, Jaron",
     "author_fl": "Jaron Lanier",
     "author_shortname": "lanierjaron",
@@ -144,7 +144,7 @@
   },
   "460": {
     "book_amazon_id": "460",
-    "title": "You are here : personal geographies and other maps of the imagination",
+    "title_of_book": "You are here : personal geographies and other maps of the imagination",
     "author_lf": "Harmon, Katharine A.",
     "author_fl": "Katharine A. Harmon",
     "author_shortname": "harmonkatharinea",
@@ -168,7 +168,7 @@
   },
   "41389": {
     "book_amazon_id": "41389",
-    "title": "XML for dummies",
+    "title_of_book": "XML for dummies",
     "author_lf": "Tittel, Ed",
     "author_fl": "Ed Tittel",
     "author_shortname": "titteled",
@@ -195,7 +195,7 @@
   },
   "47747682": {
     "book_amazon_id": "47747682",
-    "title": "Xerography Debt #25",
+    "title_of_book": "Xerography Debt #25",
     "author_lf": "Breier, Davida Gypsy",
     "author_fl": "Davida Gypsy Breier",
     "author_shortname": "breierdavidagypsy",
@@ -219,7 +219,7 @@
   },
   "54": {
     "book_amazon_id": "54",
-    "title": "Xenophon's imperial fiction : on the education of Cyrus",
+    "title_of_book": "Xenophon's imperial fiction : on the education of Cyrus",
     "author_lf": "Tatum, James",
     "author_fl": "James Tatum",
     "author_shortname": "tatumjames",
@@ -245,7 +245,7 @@
   },
   "23332": {
     "book_amazon_id": "23332",
-    "title": "Xenophon ... with an English translation ..",
+    "title_of_book": "Xenophon ... with an English translation ..",
     "author_lf": "Xenophon",
     "author_fl": "Xenophon",
     "author_shortname": "xenophon",
@@ -271,7 +271,7 @@
   },
   "87533306": {
     "book_amazon_id": "87533306",
-    "title": "Wulfsyarn",
+    "title_of_book": "Wulfsyarn",
     "author_lf": "Mann, Phillip",
     "author_fl": "Phillip Mann",
     "author_shortname": "mannphillip",
@@ -291,7 +291,7 @@
   },
   "578": {
     "book_amazon_id": "578",
-    "title": "Writing ancient history",
+    "title_of_book": "Writing ancient history",
     "author_lf": "Morley, Neville",
     "author_fl": "Neville Morley",
     "author_shortname": "morleyneville",
@@ -318,7 +318,7 @@
   },
   "23516": {
     "book_amazon_id": "23516",
-    "title": "Wrath of God: The days of the Antichrist",
+    "title_of_book": "Wrath of God: The days of the Antichrist",
     "author_lf": "Fanzaga, Livio",
     "author_fl": "Livio Fanzaga",
     "author_shortname": "fanzagalivio",
@@ -343,7 +343,7 @@
   },
   "74851780": {
     "book_amazon_id": "74851780",
-    "title": "The Worship of the Early Church",
+    "title_of_book": "The Worship of the Early Church",
     "author_lf": "Hahn, Ferdinand",
     "author_fl": "Ferdinand Hahn",
     "author_shortname": "hahnferdinand",
@@ -369,7 +369,7 @@
   },
   "97656733": {
     "book_amazon_id": "97656733",
-    "title": "The World's Greatest Short Stories (Dover Thrift Editions)",
+    "title_of_book": "The World's Greatest Short Stories (Dover Thrift Editions)",
     "author_lf": "Daley, James",
     "author_fl": "James Daley",
     "author_shortname": "daleyjames",
@@ -389,7 +389,7 @@
   },
   "44474477": {
     "book_amazon_id": "44474477",
-    "title": "World War Z : an oral history of the zombie war",
+    "title_of_book": "World War Z : an oral history of the zombie war",
     "author_lf": "Brooks, Max",
     "author_fl": "Max Brooks",
     "author_shortname": "brooksmax",
@@ -414,7 +414,7 @@
   },
   "2651411": {
     "book_amazon_id": "2651411",
-    "title": "World of wonders",
+    "title_of_book": "World of wonders",
     "author_lf": "Davies, Robertson",
     "author_fl": "Robertson Davies",
     "author_shortname": "daviesrobertson",
@@ -437,7 +437,7 @@
   },
   "574": {
     "book_amazon_id": "574",
-    "title": "The world of Odysseus [by] M.I. Finley",
+    "title_of_book": "The world of Odysseus [by] M.I. Finley",
     "author_lf": "Finley, M. I.",
     "author_fl": "M. I. Finley",
     "author_shortname": "finleymi",
@@ -462,7 +462,7 @@
   },
   "141": {
     "book_amazon_id": "141",
-    "title": "The world of classical myth : gods and goddesses, heroines and heroes",
+    "title_of_book": "The world of classical myth : gods and goddesses, heroines and heroes",
     "author_lf": "Ruck, Carl A. P.",
     "author_fl": "Carl A. P. Ruck",
     "author_shortname": "ruckcarlap",
@@ -487,7 +487,7 @@
   },
   "91840037": {
     "book_amazon_id": "91840037",
-    "title": "Wool",
+    "title_of_book": "Wool",
     "author_lf": "Howey, Hugh",
     "author_fl": "Hugh Howey",
     "author_shortname": "howeyhugh",
@@ -507,7 +507,7 @@
   },
   "99803099": {
     "book_amazon_id": "99803099",
-    "title": "Wool",
+    "title_of_book": "Wool",
     "author_lf": "Howey, Hugh",
     "author_fl": "Hugh Howey",
     "author_shortname": "howeyhugh",
@@ -531,7 +531,7 @@
   },
   "6598863": {
     "book_amazon_id": "6598863",
-    "title": "Women, Fire, and Dangerous Things",
+    "title_of_book": "Women, Fire, and Dangerous Things",
     "author_lf": "Lakoff, George",
     "author_fl": "George Lakoff",
     "author_shortname": "lakoffgeorge",
@@ -554,7 +554,7 @@
   },
   "23558": {
     "book_amazon_id": "23558",
-    "title": "Women in scripture : a dictionary of named and unnamed women in the Hebrew Bible, the",
+    "title_of_book": "Women in scripture : a dictionary of named and unnamed women in the Hebrew Bible, the",
     "author_lf": "Meyers, Carol L.",
     "author_fl": "Carol L. Meyers",
     "author_shortname": "meyerscaroll",
@@ -580,7 +580,7 @@
   },
   "33808474": {
     "book_amazon_id": "33808474",
-    "title": "Women in Science: Time to Recognize the Obvious",
+    "title_of_book": "Women in Science: Time to Recognize the Obvious",
     "author_lf": "Serageldin, Ismail",
     "author_fl": "Ismail Serageldin",
     "author_shortname": "serageldinismail",
@@ -604,7 +604,7 @@
   },
   "590": {
     "book_amazon_id": "590",
-    "title": "Women and law in classical Greece",
+    "title_of_book": "Women and law in classical Greece",
     "author_lf": "Sealey, Raphael",
     "author_fl": "Raphael Sealey",
     "author_shortname": "sealeyraphael",
@@ -628,7 +628,7 @@
   },
   "103193471": {
     "book_amazon_id": "103193471",
-    "title": "Without Their Permission: How the 21st Century Will Be Made, Not Managed",
+    "title_of_book": "Without Their Permission: How the 21st Century Will Be Made, Not Managed",
     "author_lf": "Ohanian, Alexis",
     "author_fl": "Alexis Ohanian",
     "author_shortname": "ohanianalexis",
@@ -648,7 +648,7 @@
   },
   "133": {
     "book_amazon_id": "133",
-    "title": "Witchcraft at Salem",
+    "title_of_book": "Witchcraft at Salem",
     "author_lf": "Hansen, Chadwick",
     "author_fl": "Chadwick Hansen",
     "author_shortname": "hansenchadwick",
@@ -675,7 +675,7 @@
   },
   "47750641": {
     "book_amazon_id": "47750641",
-    "title": "Wit and the writing of history : the rhetoric of historiography in imperial Rome",
+    "title_of_book": "Wit and the writing of history : the rhetoric of historiography in imperial Rome",
     "author_lf": "Plass, Paul",
     "author_fl": "Paul Plass",
     "author_shortname": "plasspaul",
@@ -700,7 +700,7 @@
   },
   "34469906": {
     "book_amazon_id": "34469906",
-    "title": "The Wisdom of Crowds",
+    "title_of_book": "The Wisdom of Crowds",
     "author_lf": "Surowiecki, James",
     "author_fl": "James Surowiecki",
     "author_shortname": "surowieckijames",
@@ -726,7 +726,7 @@
   },
   "73540459": {
     "book_amazon_id": "73540459",
-    "title": "Winston's War: Churchill, 1940-1945",
+    "title_of_book": "Winston's War: Churchill, 1940-1945",
     "author_lf": "Hastings, Max",
     "author_fl": "Max Hastings",
     "author_shortname": "hastingsmax",
@@ -752,7 +752,7 @@
   },
   "4007938": {
     "book_amazon_id": "4007938",
-    "title": "Wings of madness : Alberto Santos-Dumont and the invention of flight",
+    "title_of_book": "Wings of madness : Alberto Santos-Dumont and the invention of flight",
     "author_lf": "Hoffman, Paul",
     "author_fl": "Paul Hoffman",
     "author_shortname": "hoffmanpaul",
@@ -780,7 +780,7 @@
   },
   "55162198": {
     "book_amazon_id": "55162198",
-    "title": "Wikinomics",
+    "title_of_book": "Wikinomics",
     "author_lf": "Williams, Anthony D.",
     "author_fl": "Anthony D. Williams",
     "author_shortname": "williamsanthonyd",
@@ -804,7 +804,7 @@
   },
   "101498865": {
     "book_amazon_id": "101498865",
-    "title": "Why the allies won",
+    "title_of_book": "Why the allies won",
     "author_lf": "Overy, R. J.",
     "author_fl": "R. J. Overy",
     "author_shortname": "overyrj",
@@ -828,7 +828,7 @@
   },
   "93467934": {
     "book_amazon_id": "93467934",
-    "title": "Why Priests?: A Failed Tradition",
+    "title_of_book": "Why Priests?: A Failed Tradition",
     "author_lf": "Wills, Garry",
     "author_fl": "Garry Wills",
     "author_shortname": "willsgarry",
@@ -854,7 +854,7 @@
   },
   "328": {
     "book_amazon_id": "328",
-    "title": "Why people believe weird things : pseudoscience, superstition, and other confusions of our time",
+    "title_of_book": "Why people believe weird things : pseudoscience, superstition, and other confusions of our time",
     "author_lf": "Shermer, Michael",
     "author_fl": "Michael Shermer",
     "author_shortname": "shermermichael",
@@ -878,7 +878,7 @@
   },
   "23515": {
     "book_amazon_id": "23515",
-    "title": "Why I am a Catholic",
+    "title_of_book": "Why I am a Catholic",
     "author_lf": "Wills, Garry",
     "author_fl": "Garry Wills",
     "author_shortname": "willsgarry",
@@ -903,7 +903,7 @@
   },
   "92093485": {
     "book_amazon_id": "92093485",
-    "title": "Why big fierce animals are rare : an ecologist&#039;s perspective",
+    "title_of_book": "Why big fierce animals are rare : an ecologist&#039;s perspective",
     "author_lf": "Colinvaux, Paul A.",
     "author_fl": "Paul A. Colinvaux",
     "author_shortname": "colinvauxpaula",
@@ -923,7 +923,7 @@
   },
   "2449541": {
     "book_amazon_id": "2449541",
-    "title": "Whoops! I'm In Business: A Crash Course In Business Basics",
+    "title_of_book": "Whoops! I'm In Business: A Crash Course In Business Basics",
     "author_lf": "Stim, Richard",
     "author_fl": "Richard Stim",
     "author_shortname": "stimrichard",
@@ -948,7 +948,7 @@
   },
   "23553": {
     "book_amazon_id": "23553",
-    "title": "Who's who in the Old Testament / Who's who in the Bible : two volumes in one",
+    "title_of_book": "Who's who in the Old Testament / Who's who in the Bible : two volumes in one",
     "author_lf": "Comay, Joan",
     "author_fl": "Joan Comay",
     "author_shortname": "comayjoan",
@@ -974,7 +974,7 @@
   },
   "4007730": {
     "book_amazon_id": "4007730",
-    "title": "Who killed Homer? : the demise of classical education and the recovery of Greek wisdom",
+    "title_of_book": "Who killed Homer? : the demise of classical education and the recovery of Greek wisdom",
     "author_lf": "Hanson, Victor Davis",
     "author_fl": "Victor Davis Hanson",
     "author_shortname": "hansonvictordavis",
@@ -999,7 +999,7 @@
   },
   "4805503": {
     "book_amazon_id": "4805503",
-    "title": "White noise",
+    "title_of_book": "White noise",
     "author_lf": "DeLillo, Don",
     "author_fl": "Don DeLillo",
     "author_shortname": "delillodon",
@@ -1023,7 +1023,7 @@
   },
   "292": {
     "book_amazon_id": "292",
-    "title": "When in Rome : a journal of life in Vatican City",
+    "title_of_book": "When in Rome : a journal of life in Vatican City",
     "author_lf": "Hutchinson, Robert J.",
     "author_fl": "Robert J. Hutchinson",
     "author_shortname": "hutchinsonrobertj",
@@ -1048,7 +1048,7 @@
   },
   "4805446": {
     "book_amazon_id": "4805446",
-    "title": "What went wrong? : Western impact and Middle Eastern response",
+    "title_of_book": "What went wrong? : Western impact and Middle Eastern response",
     "author_lf": "Lewis, Bernard",
     "author_fl": "Bernard Lewis",
     "author_shortname": "lewisbernard",
@@ -1074,7 +1074,7 @@
   },
   "101182924": {
     "book_amazon_id": "101182924",
-    "title": "What the World is Reading",
+    "title_of_book": "What the World is Reading",
     "author_lf": "Group, Penguin",
     "author_fl": "Penguin Group",
     "author_shortname": "grouppenguin",
@@ -1099,7 +1099,7 @@
   },
   "64084409": {
     "book_amazon_id": "64084409",
-    "title": "What the Gospels Meant",
+    "title_of_book": "What the Gospels Meant",
     "author_lf": "Wills, Garry",
     "author_fl": "Garry Wills",
     "author_shortname": "willsgarry",
@@ -1124,7 +1124,7 @@
   },
   "64084364": {
     "book_amazon_id": "64084364",
-    "title": "What Paul Meant",
+    "title_of_book": "What Paul Meant",
     "author_lf": "Wills, Garry",
     "author_fl": "Garry Wills",
     "author_shortname": "willsgarry",
@@ -1152,7 +1152,7 @@
   },
   "56563339": {
     "book_amazon_id": "56563339",
-    "title": "What next in Turkey; glimpses of the American board&#039;s work in the near East",
+    "title_of_book": "What next in Turkey; glimpses of the American board&#039;s work in the near East",
     "author_lf": "Eddy, David Brewer",
     "author_fl": "David Brewer Eddy",
     "author_shortname": "eddydavidbrewer",
@@ -1177,7 +1177,7 @@
   },
   "101182883": {
     "book_amazon_id": "101182883",
-    "title": "What matters in Jane Austen? : twenty crucial puzzles solved",
+    "title_of_book": "What matters in Jane Austen? : twenty crucial puzzles solved",
     "author_lf": "Mullan, John",
     "author_fl": "John Mullan",
     "author_shortname": "mullanjohn",
@@ -1203,7 +1203,7 @@
   },
   "23513": {
     "book_amazon_id": "23513",
-    "title": "What makes us Catholic : eight gifts for life",
+    "title_of_book": "What makes us Catholic : eight gifts for life",
     "author_lf": "Groome, Thomas H.",
     "author_fl": "Thomas H. Groome",
     "author_shortname": "groomethomash",
@@ -1228,7 +1228,7 @@
   },
   "99325657": {
     "book_amazon_id": "99325657",
-    "title": "What makes civilization? : the ancient near east and the future of the west",
+    "title_of_book": "What makes civilization? : the ancient near east and the future of the west",
     "author_lf": "Wengrow, David",
     "author_fl": "David Wengrow",
     "author_shortname": "wengrowdavid",
@@ -1248,7 +1248,7 @@
   },
   "76959312": {
     "book_amazon_id": "76959312",
-    "title": "What Language Is: And What It Isnt and What It Could Be",
+    "title_of_book": "What Language Is: And What It Isnt and What It Could Be",
     "author_lf": "McWhorter, John",
     "author_fl": "John McWhorter",
     "author_shortname": "mcwhorterjohn",
@@ -1268,7 +1268,7 @@
   },
   "64084399": {
     "book_amazon_id": "64084399",
-    "title": "What Jesus Meant",
+    "title_of_book": "What Jesus Meant",
     "author_lf": "Wills, Garry",
     "author_fl": "Garry Wills",
     "author_shortname": "willsgarry",
@@ -1293,7 +1293,7 @@
   },
   "43274343": {
     "book_amazon_id": "43274343",
-    "title": "What Have You Changed Your Mind About?: Today&#039;s Leading Minds Rethink Everything",
+    "title_of_book": "What Have You Changed Your Mind About?: Today&#039;s Leading Minds Rethink Everything",
     "author_lf": "Brockman, John",
     "author_fl": "John Brockman",
     "author_shortname": "brockmanjohn",
@@ -1313,7 +1313,7 @@
   },
   "4007985": {
     "book_amazon_id": "4007985",
-    "title": "What happened on the Bounty",
+    "title_of_book": "What happened on the Bounty",
     "author_lf": "Danielsson, Bengt",
     "author_fl": "Bengt Danielsson",
     "author_shortname": "danielssonbengt",
@@ -1337,7 +1337,7 @@
   },
   "73176388": {
     "book_amazon_id": "73176388",
-    "title": "What Happened at Vatican II",
+    "title_of_book": "What Happened at Vatican II",
     "author_lf": "J., John W. O&#039;Malley S.",
     "author_fl": "John W. O&#039;Malley S. J.",
     "author_shortname": "jjohnwomalleys",
@@ -1357,7 +1357,7 @@
   },
   "31851499": {
     "book_amazon_id": "31851499",
-    "title": "The Whales Go By",
+    "title_of_book": "The Whales Go By",
     "author_lf": "Phleger",
     "author_fl": "Phleger",
     "author_shortname": "phleger",
@@ -1377,7 +1377,7 @@
   },
   "565": {
     "book_amazon_id": "565",
-    "title": "The Western way of war : infantry battle in classical Greece",
+    "title_of_book": "The Western way of war : infantry battle in classical Greece",
     "author_lf": "Hanson, Victor Davis",
     "author_fl": "Victor Davis Hanson",
     "author_shortname": "hansonvictordavis",
@@ -1401,7 +1401,7 @@
   },
   "47878630": {
     "book_amazon_id": "47878630",
-    "title": "Western languages, AD 100-1500",
+    "title_of_book": "Western languages, AD 100-1500",
     "author_lf": "Wolff, Philippe",
     "author_fl": "Philippe Wolff",
     "author_shortname": "wolffphilippe",
@@ -1425,7 +1425,7 @@
   },
   "4007166": {
     "book_amazon_id": "4007166",
-    "title": "The Western Canon: The Books and School of the Ages",
+    "title_of_book": "The Western Canon: The Books and School of the Ages",
     "author_lf": "Bloom, Harold",
     "author_fl": "Harold Bloom",
     "author_shortname": "bloomharold",
@@ -1448,7 +1448,7 @@
   },
   "798441": {
     "book_amazon_id": "798441",
-    "title": "The Web Developer's Guide to Amazon E-commerce Service: Developing Web Applications Using Amazon Web Services And Php",
+    "title_of_book": "The Web Developer's Guide to Amazon E-commerce Service: Developing Web Applications Using Amazon Web Services And Php",
     "author_lf": "Levitt, Jason",
     "author_fl": "Jason Levitt",
     "author_shortname": "levittjason",
@@ -1477,7 +1477,7 @@
   },
   "79018873": {
     "book_amazon_id": "79018873",
-    "title": "We-Think: Mass innovation, not mass production",
+    "title_of_book": "We-Think: Mass innovation, not mass production",
     "author_lf": "Leadbeater, Charles",
     "author_fl": "Charles Leadbeater",
     "author_shortname": "leadbeatercharles",
@@ -1497,7 +1497,7 @@
   },
   "76761845": {
     "book_amazon_id": "76761845",
-    "title": "We Remember C. S. Lewis: Essays and Memoirs by Philip Yancey, J. I.Packer, Charles Colson, George Sayer, James Houston, Don Bede Griffiths and Others",
+    "title_of_book": "We Remember C. S. Lewis: Essays and Memoirs by Philip Yancey, J. I.Packer, Charles Colson, George Sayer, James Houston, Don Bede Griffiths and Others",
     "author_lf": "Graham, David",
     "author_fl": "David Graham",
     "author_shortname": "grahamdavid",
@@ -1517,7 +1517,7 @@
   },
   "89131415": {
     "book_amazon_id": "89131415",
-    "title": "We have always lived in the castle",
+    "title_of_book": "We have always lived in the castle",
     "author_lf": "Jackson, Shirley",
     "author_fl": "Shirley Jackson",
     "author_shortname": "jacksonshirley",
@@ -1537,7 +1537,7 @@
   },
   "43451880": {
     "book_amazon_id": "43451880",
-    "title": "The war of the worlds",
+    "title_of_book": "The war of the worlds",
     "author_lf": "Wells, H. G.",
     "author_fl": "H. G. Wells",
     "author_shortname": "wellshg",
@@ -1562,7 +1562,7 @@
   },
   "4007627": {
     "book_amazon_id": "4007627",
-    "title": "The war of the worlds",
+    "title_of_book": "The war of the worlds",
     "author_lf": "Wells, H. G.",
     "author_fl": "H. G. Wells",
     "author_shortname": "wellshg",
@@ -1588,7 +1588,7 @@
   },
   "22959397": {
     "book_amazon_id": "22959397",
-    "title": "War memoirs.",
+    "title_of_book": "War memoirs.",
     "author_lf": "Gaulle, Charles de",
     "author_fl": "Charles de Gaulle",
     "author_shortname": "gaullecharlesde",
@@ -1618,7 +1618,7 @@
   },
   "58688313": {
     "book_amazon_id": "58688313",
-    "title": "The War Memoirs Of (HRH) Wallis, Duchess Of Windsor",
+    "title_of_book": "The War Memoirs Of (HRH) Wallis, Duchess Of Windsor",
     "author_lf": "Auspitz, Kate",
     "author_fl": "Kate Auspitz",
     "author_shortname": "auspitzkate",
@@ -1638,7 +1638,7 @@
   },
   "30873339": {
     "book_amazon_id": "30873339",
-    "title": "War in human civilization",
+    "title_of_book": "War in human civilization",
     "author_lf": "Gat, Azar",
     "author_fl": "Azar Gat",
     "author_shortname": "gatazar",
@@ -1661,7 +1661,7 @@
   },
   "6068551": {
     "book_amazon_id": "6068551",
-    "title": "War As I Knew It",
+    "title_of_book": "War As I Knew It",
     "author_lf": "Patton, George S.",
     "author_fl": "George S. Patton",
     "author_shortname": "pattongeorges",
@@ -1686,7 +1686,7 @@
   },
   "456": {
     "book_amazon_id": "456",
-    "title": "The war against parents : what we can do for America's beleaguered moms and dads",
+    "title_of_book": "The war against parents : what we can do for America's beleaguered moms and dads",
     "author_lf": "Hewlett, Sylvia Ann",
     "author_fl": "Sylvia Ann Hewlett",
     "author_shortname": "hewlettsylviaann",
@@ -1711,7 +1711,7 @@
   },
   "293": {
     "book_amazon_id": "293",
-    "title": "Walking the Bible : a photographic journey",
+    "title_of_book": "Walking the Bible : a photographic journey",
     "author_lf": "Feiler, Bruce S.",
     "author_fl": "Bruce S. Feiler",
     "author_shortname": "feilerbruces",
@@ -1739,7 +1739,7 @@
   },
   "420": {
     "book_amazon_id": "420",
-    "title": "The Vulgate commentary on Ovid's Metamorphoses : the creation myth and the story of Orpheus",
+    "title_of_book": "The Vulgate commentary on Ovid's Metamorphoses : the creation myth and the story of Orpheus",
     "author_lf": "Coulson, Frank Thomas",
     "author_fl": "Frank Thomas Coulson",
     "author_shortname": "coulsonfrankthomas",
@@ -1763,7 +1763,7 @@
   },
   "53485791": {
     "book_amazon_id": "53485791",
-    "title": "A Voyage Long and Strange: Rediscovering the New World",
+    "title_of_book": "A Voyage Long and Strange: Rediscovering the New World",
     "author_lf": "Horwitz, Tony",
     "author_fl": "Tony Horwitz",
     "author_shortname": "horwitztony",
@@ -1783,7 +1783,7 @@
   },
   "60480972": {
     "book_amazon_id": "60480972",
-    "title": "Voting About God in Early Church Councils",
+    "title_of_book": "Voting About God in Early Church Councils",
     "author_lf": "MacMullen, Professor Ramsay",
     "author_fl": "Professor Ramsay MacMullen",
     "author_shortname": "macmullenprofessorra",
@@ -1810,7 +1810,7 @@
   },
   "34532815": {
     "book_amazon_id": "34532815",
-    "title": "Vladimir Nabokov : The American Years",
+    "title_of_book": "Vladimir Nabokov : The American Years",
     "author_lf": "Boyd, Brian",
     "author_fl": "Brian Boyd",
     "author_shortname": "boydbrian",
@@ -1836,7 +1836,7 @@
   },
   "23987": {
     "book_amazon_id": "23987",
-    "title": "Vitae parallelae",
+    "title_of_book": "Vitae parallelae",
     "author_lf": "Plutarch",
     "author_fl": "Plutarch",
     "author_shortname": "plutarch",
@@ -1861,7 +1861,7 @@
   },
   "40450124": {
     "book_amazon_id": "40450124",
-    "title": "Visual Explanations: Images and Quantities, Evidence and Narrative",
+    "title_of_book": "Visual Explanations: Images and Quantities, Evidence and Narrative",
     "author_lf": "Tufte, Edward R.",
     "author_fl": "Edward R. Tufte",
     "author_shortname": "tufteedwardr",
@@ -1881,7 +1881,7 @@
   },
   "40450309": {
     "book_amazon_id": "40450309",
-    "title": "The Visual Display of Quantitative Information, 2nd edition",
+    "title_of_book": "The Visual Display of Quantitative Information, 2nd edition",
     "author_lf": "Tufte, Edward R.",
     "author_fl": "Edward R. Tufte",
     "author_shortname": "tufteedwardr",
@@ -1901,7 +1901,7 @@
   },
   "6757635": {
     "book_amazon_id": "6757635",
-    "title": "The virtues of war : a novel of Alexander the Great",
+    "title_of_book": "The virtues of war : a novel of Alexander the Great",
     "author_lf": "Pressfield, Steven",
     "author_fl": "Steven Pressfield",
     "author_shortname": "pressfieldsteven",
@@ -1925,7 +1925,7 @@
   },
   "32": {
     "book_amazon_id": "32",
-    "title": "Virtruvius, the ten books on architecture,",
+    "title_of_book": "Virtruvius, the ten books on architecture,",
     "author_lf": "Vitruvius Pollio",
     "author_fl": "Vitruvius Pollio",
     "author_shortname": "vitruviuspollio",
@@ -1950,7 +1950,7 @@
   },
   "435": {
     "book_amazon_id": "435",
-    "title": "Virgil's Æneid, books I-VI; the original text with a literal interlinear translation, by Frederick Hol",
+    "title_of_book": "Virgil's Æneid, books I-VI; the original text with a literal interlinear translation, by Frederick Hol",
     "author_lf": "Virgil",
     "author_fl": "Virgil",
     "author_shortname": "virgil",
@@ -1975,7 +1975,7 @@
   },
   "135": {
     "book_amazon_id": "135",
-    "title": "The Victorians and ancient Greece",
+    "title_of_book": "The Victorians and ancient Greece",
     "author_lf": "Jenkyns, Richard",
     "author_fl": "Richard Jenkyns",
     "author_shortname": "jenkynsrichard",
@@ -2003,7 +2003,7 @@
   },
   "342": {
     "book_amazon_id": "342",
-    "title": "The Victorian Internet : the remarkable story of the telegraph and the nineteenth century",
+    "title_of_book": "The Victorian Internet : the remarkable story of the telegraph and the nineteenth century",
     "author_lf": "Standage, Tom",
     "author_fl": "Tom Standage",
     "author_shortname": "standagetom",
@@ -2028,7 +2028,7 @@
   },
   "473": {
     "book_amazon_id": "473",
-    "title": "Vice & virtue in everyday life : introductory readings in ethics",
+    "title_of_book": "Vice & virtue in everyday life : introductory readings in ethics",
     "author_lf": "Sommers, Christina Hoff",
     "author_fl": "Christina Hoff Sommers",
     "author_shortname": "sommerschristinahoff",
@@ -2052,7 +2052,7 @@
   },
   "6068689": {
     "book_amazon_id": "6068689",
-    "title": "Verses of Georgetown and Beyond - edited in place by john",
+    "title_of_book": "Verses of Georgetown and Beyond - edited in place by john",
     "author_lf": "Spalding, Alice Burr",
     "author_fl": "Alice Burr Spalding",
     "author_shortname": "spaldingaliceburr",
@@ -2076,7 +2076,7 @@
   },
   "263": {
     "book_amazon_id": "263",
-    "title": "Venus and Adonis",
+    "title_of_book": "Venus and Adonis",
     "author_lf": "Shakespeare",
     "author_fl": "Shakespeare",
     "author_shortname": "shakespeare",
@@ -2101,7 +2101,7 @@
   },
   "92505707": {
     "book_amazon_id": "92505707",
-    "title": "Vatican II: Fifty Personal Stories",
+    "title_of_book": "Vatican II: Fifty Personal Stories",
     "author_lf": "Madges, William",
     "author_fl": "William Madges",
     "author_shortname": "madgeswilliam",
@@ -2121,7 +2121,7 @@
   },
   "97617937": {
     "book_amazon_id": "97617937",
-    "title": "The Vatican Diaries: A Behind-the-Scenes Look at the Power, Personalities, and Politics at the Heart of the Catholic Church",
+    "title_of_book": "The Vatican Diaries: A Behind-the-Scenes Look at the Power, Personalities, and Politics at the Heart of the Catholic Church",
     "author_lf": "Thavis, John",
     "author_fl": "John Thavis",
     "author_shortname": "thavisjohn",
@@ -2147,7 +2147,7 @@
   },
   "581": {
     "book_amazon_id": "581",
-    "title": "The use and abuse of history",
+    "title_of_book": "The use and abuse of history",
     "author_lf": "Finley, M. I.",
     "author_fl": "M. I. Finley",
     "author_shortname": "finleymi",
@@ -2174,7 +2174,7 @@
   },
   "557": {
     "book_amazon_id": "557",
-    "title": "Upgrading to PHP 5",
+    "title_of_book": "Upgrading to PHP 5",
     "author_lf": "Trachtenberg, Adam",
     "author_fl": "Adam Trachtenberg",
     "author_shortname": "trachtenbergadam",
@@ -2201,7 +2201,7 @@
   },
   "69084403": {
     "book_amazon_id": "69084403",
-    "title": "Unpopular Species: A Second Look at the Plants and Animals Hardly Anybody Loves — Issue 2: Southeastern US",
+    "title_of_book": "Unpopular Species: A Second Look at the Plants and Animals Hardly Anybody Loves — Issue 2: Southeastern US",
     "author_lf": "Silva, Rick",
     "author_fl": "Rick Silva",
     "author_shortname": "silvarick",
@@ -2226,7 +2226,7 @@
   },
   "69084338": {
     "book_amazon_id": "69084338",
-    "title": "Unpopular Species: A Second Look at the Plants and Animals Hardly Anybody Loves — Issue 1: Northeastern US",
+    "title_of_book": "Unpopular Species: A Second Look at the Plants and Animals Hardly Anybody Loves — Issue 1: Northeastern US",
     "author_lf": "Silva, Rick",
     "author_fl": "Rick Silva",
     "author_shortname": "silvarick",
@@ -2251,7 +2251,7 @@
   },
   "2645148": {
     "book_amazon_id": "2645148",
-    "title": "UNIX for Dummies",
+    "title_of_book": "UNIX for Dummies",
     "author_lf": "Levine, John R.",
     "author_fl": "John R. Levine",
     "author_shortname": "levinejohnr",
@@ -2276,7 +2276,7 @@
   },
   "64084444": {
     "book_amazon_id": "64084444",
-    "title": "Under God: Religion and American Politics",
+    "title_of_book": "Under God: Religion and American Politics",
     "author_lf": "Wills, Garry",
     "author_fl": "Garry Wills",
     "author_shortname": "willsgarry",
@@ -2296,7 +2296,7 @@
   },
   "75411789": {
     "book_amazon_id": "75411789",
-    "title": "Twilight of the clockwork God : conversations on science and spirituality at the end of an age",
+    "title_of_book": "Twilight of the clockwork God : conversations on science and spirituality at the end of an age",
     "author_lf": "Ebert, John David",
     "author_fl": "John David Ebert",
     "author_shortname": "ebertjohndavid",
@@ -2321,7 +2321,7 @@
   },
   "4803919": {
     "book_amazon_id": "4803919",
-    "title": "The twelve Caesars",
+    "title_of_book": "The twelve Caesars",
     "author_lf": "Suetonius",
     "author_fl": "Suetonius",
     "author_shortname": "suetonius",
@@ -2347,7 +2347,7 @@
   },
   "60002718": {
     "book_amazon_id": "60002718",
-    "title": "Tuscan cuisine: book of recipes",
+    "title_of_book": "Tuscan cuisine: book of recipes",
     "author_lf": "Pedrittoni, Guido",
     "author_fl": "Guido Pedrittoni",
     "author_shortname": "pedrittoniguido",
@@ -2372,7 +2372,7 @@
   },
   "3635488": {
     "book_amazon_id": "3635488",
-    "title": "Turkish traditional art today",
+    "title_of_book": "Turkish traditional art today",
     "author_lf": "Glassie, Henry H.",
     "author_fl": "Henry H. Glassie",
     "author_shortname": "glassiehenryh",
@@ -2398,7 +2398,7 @@
   },
   "307": {
     "book_amazon_id": "307",
-    "title": "Turkish reflections : a biography of a place",
+    "title_of_book": "Turkish reflections : a biography of a place",
     "author_lf": "Settle, Mary Lee",
     "author_fl": "Mary Lee Settle",
     "author_shortname": "settlemarylee",

@@ -41,13 +41,6 @@
     <field name="release_date" type="string" indexed="true" stored="true"/>
     <field name="language" type="string" indexed="true" stored="true"/>
 
-    <copyField source="author_shortname" dest="author"/>
-    <copyField source="book_isbn" dest="isbn"/>
-    <copyField source="amazon_score" dest="rating"/>
-    <copyField source="cover_image_address" dest="cover"/>
-    <copyField source="created_at" dest="release_date"/>
-    <copyField source="main_language" dest="language"/>
-
    <!-- TODO: is this needed? -->
    <field name="_version_" type="long" indexed="true" stored="true"/>
 
